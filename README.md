@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Jackie Gadget Store — AI-Driven Product Landing Page
 
-First, run the development server:
+A modern gadget store landing page built with **Next.js 15**, featuring **AI chatbot**, **WhatsApp automation**, and **dynamic product pages**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Live Demo
+🔗 Website: https://your-project.vercel.app
+🎥 Walkthrough Video: https://youtu.be/xxxx
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤖 Integrations
+- OpenAI API – AI Chatbot
+- WhatsApp API – Floating CTA
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧠 Overview
+Jackie Gadget Store simulates a real-world commercial landing page focused on:
+- Product presentation
+- Trust & credibility
+- AI-assisted customer interaction
+- High conversion via WhatsApp
+- SEO-friendly
 
-## Learn More
+This project is designed as a **portfolio-grade application**, not a tutorial project.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Key Features
+- Dynamic product pages using App Router (`/products/[slug]`)
+- Brand-based filtering per category (Smartphone, Laptop, PC, Accessories)
+- AI Chatbot integration (OpenAI API)
+- WhatsApp CTA per product item
+- Responsive, mobile-first UI
+- SEO-friendly slug routing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🤖 AI & Automation
+- **AI Chatbot (OpenAI API)** for customer assistance  
+- **WhatsApp Integration** for instant lead conversion  
+(Positioned bottom-left & bottom-right)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Tech Stack
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- OpenAI API
+- WhatsApp API
+- Vercel Deployment
+
+---
+
+## 📂 Structure (Simplified)
+
+src/
+├─ app/products/[slug]
+├─ components/
+├─ data/
+├─ constants/
+
+
+---
+
+## 🎯 Purpose
+Built to demonstrate:
+- Real-world frontend architecture
+- AI integration in web applications
+- Clean, scalable component design
+- Conversion-oriented UI/UX
+
+---
+
+## 👤 Author
+**Hengki Zulfikri**  
+Frontend Developer | Web Developer
