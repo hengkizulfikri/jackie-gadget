@@ -6,7 +6,7 @@ A modern gadget store landing page built with **Next.js 15**, featuring **AI cha
 ---
 
 ## 🚀 Live Demo
-🔗 Website: jackie-gadget.vercel.app
+🔗 Website: https://jackie-gadget.vercel.app
 🎥 Walkthrough Video: https://youtu.be/xxxx
 ---
 
